@@ -1,0 +1,66 @@
+
+
+/* Social media icons */
+.social-icons {
+  margin-right: 10px;
+}
+
+.fab, .fas {
+  color: #4db3c5bf;
+  font-size: 1.6rem;
+  padding: 0 0.3rem;
+}
+
+.fab:hover, .fas:hover {
+  color: #3f92a0bf;
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 1.8rem;
+  padding-right: 0.7rem;
+}
+
+/* contact info */
+.popover-body {
+  color: #585858;
+  width: 11rem;
+}
+
+a.contact {
+  background-color: none;
+}
+
+/* -- COURSES -- */
+.jumbotron.courses {
+  background-image: url("../images/meeting.jpg");
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  text-align: center;
+}
+
+.jumbotron.courses h1.display-4 {
+  font-size: 3.5rem;
+}
+
+.jumbotron.courses p.lead {
+  font-size: 2rem;
+  padding-top: 10px;
+}
+
+.jumbotron.courses span.course-types {
+  /*color: #74a4ce;*/
+  font-weight: 400;
+}
+
+.course-age {
+  text-align: center;
+}
+
+
+/* edit this so that you turn each word into a button, round corners etc
+.jumbotron.courses span.course-types:nth-child(){
+  background-color: red;
+}
+*/
